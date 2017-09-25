@@ -1,1 +1,1 @@
-# EZPaint
+# Squaresplosion
