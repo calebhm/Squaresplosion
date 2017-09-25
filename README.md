@@ -1,1 +1,1 @@
-# BreakoutGame
+# EZPaint
